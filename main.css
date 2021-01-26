@@ -1,0 +1,63 @@
+
+body {
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0 0 4% 0;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 4% 15%
+}
+
+/* Configure Section */
+
+.color1-section {
+background-color: #222831;
+color: #e8e8e8;
+/*  background-color: #11698e;*/
+/* color: #e7d9ea; */
+}
+
+.color2-section {
+  background-color: #23689b;
+  color: #e8e8e8;
+  /* background-color: #19456b; */
+  /* color: #e7d9ea; */
+}
+
+.white-section {
+  background-color: #e8e8e8;
+  color: #222831;
+  /* background-color: #e7d9ea; */
+  /* color: #19456b; */
+}
+
+/* Home Section */
+#home {
+  height: 50rem;
+}
+
+.main-header {
+  padding: 12% 0 2%;
+}
+
+/* About Section */
+
+#about {
+  text-align: left;
+}
+
+
+/* Portafolio Section */
+
+.card-body{
+  background-color: #333456;
+  color: #e8e8e8;
+}
+
+/* Contact Section */
